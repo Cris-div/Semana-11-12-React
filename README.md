@@ -20,6 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 dependencias usadas : 
 - npm create vite@latest
+- npm install
 - npm i bootstrap@5.3.8
 - npm install axios
 - npm install react react-dom
